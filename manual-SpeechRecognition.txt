@@ -1,0 +1,48 @@
+- Modo de usar -
+============================================
+Tenha instalado as bibliotecas
+
+Siga a ordem de instação:
+
+SpeechRecognition
+pip install SpeechRecognition
+
+pipwin
+pip install pipwin
+
+pyaudio
+pipwin pyaudio
+
+==========================================
+
+programador: Igor borges
+
+Material desenvolvido para estudo e pratica
+
+email : igorm4aster@gmail.com
+
+
+---------ENGLISH-------
+
+- How to use -
+============================================
+Have installed the libraries
+
+Follow the order of installation:
+
+speech recognition
+pip install SpeechRecognition
+
+pipwin
+pip install pipwin
+
+paudio
+pipwin pyaudio
+
+==========================================
+
+programmer: Igor Borges
+
+Material developed for study and practice
+
+email: igorm4aster@gmail.com
